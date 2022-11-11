@@ -8,12 +8,14 @@
     "start": "sass --watch src/scss:dist/css & live-server",
     "prepare": "husky install",
     "build-vite": "vite build",
-    "test": "jest"
+    "test": "jest",
+    "cypressTest": "cypress open"
   },
   "keywords": [],
   "author": "Noroff",
   "license": "ISC",
   "devDependencies": {
+    "cypress": "^11.0.1",
     "eslint": "^8.27.0",
     "eslint-plugin-cypress": "^2.12.1",
     "husky": "^8.0.2",
