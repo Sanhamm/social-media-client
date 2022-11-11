@@ -1,7 +1,7 @@
 const path = require("path");
 
 export default {
-  base: "/workflow-social-ca/",
+  base: "/social-media-client/",
 
   root: path.resolve(__dirname, "./"),
 
