@@ -1,4 +1,8 @@
+# Workflow bagdes
+
 [![Deploy static content to Pages](https://github.com/Sanhamm/social-media-client/actions/workflows/pages.yml/badge.svg)](https://github.com/Sanhamm/social-media-client/actions/workflows/pages.yml)
+
+## Progression
 
 ```
 -npm install prettier --save-dev
