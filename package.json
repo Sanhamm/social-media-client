@@ -7,7 +7,8 @@
     "build": "sass src/scss:dist/css",
     "start": "sass --watch src/scss:dist/css & live-server",
     "prepare": "husky install",
-    "build-vite": "vite build"
+    "build-vite": "vite build",
+    "test": "jest"
   },
   "keywords": [],
   "author": "Noroff",
