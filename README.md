@@ -1,6 +1,6 @@
 # Workflow bagdes
 
-[![Deploying pages](https://github.com/Sanhamm/social-media-client/actions/workflows/pages.yml/badge.svg)](https://github.com/Sanhamm/social-media-client/actions/workflows/pages.yml) [![unit-testing](https://github.com/Sanhamm/social-media-client/actions/workflows/unitTest.yml/badge.svg)](https://github.com/Sanhamm/social-media-client/actions/workflows/unitTest.yml)
+Pages:[![Deploying pages](https://github.com/Sanhamm/social-media-client/actions/workflows/pages.yml/badge.svg)](https://github.com/Sanhamm/social-media-client/actions/workflows/pages.yml) Unit-test[![unit-testing](https://github.com/Sanhamm/social-media-client/actions/workflows/unitTest.yml/badge.svg)](https://github.com/Sanhamm/social-media-client/actions/workflows/unitTest.yml)
 
 ## Progression
 
