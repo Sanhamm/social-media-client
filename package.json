@@ -10,7 +10,8 @@
     "build-vite": "vite build",
     "test": "jest",
     "cypressTest": "cypress open",
-    "dev": "vite"
+    "dev": "vite",
+    "cy-test": "npx cypress run"
   },
   "keywords": [],
   "author": "Noroff",
